@@ -6,6 +6,7 @@ var heart1, heart2, heart3;
 var heart1Img, heart2Img, heart3Img;
 
 var zombieGroup;
+ 
 
 var score = 0;
 var life = 3;
